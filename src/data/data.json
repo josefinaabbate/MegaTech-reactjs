@@ -5,7 +5,8 @@
         "description": "Los auriculares inalámbricos conocidos por su diseño elegante y cómodo. Ofrecen una experiencia de audio de alta calidad y se conectan fácilmente a dispositivos mediante Bluetooth.",
         "category": " Headphones",
         "imagen": "https://media.distrelec.com/Web/WebShopImages/landscape_large/9-/01/Apple-MGYH3ZM_A-30237589-01.jpg",
-        "price": "$300"
+        "price": 300,
+        "stock": 10
         
     },
     {
@@ -14,7 +15,8 @@
         "description": "Los auriculares inalámbricos conocidos por su diseño elegante y cómodo. Ofrecen una experiencia de audio de alta calidad y se conectan fácilmente a dispositivos mediante Bluetooth",
         "category": " Headphones",
         "imagen": "https://www.telefonshoppen.se/img/bilder/artiklar/zoom/apple-airpods-max-5_1.jpg?m=1685698529",
-        "price": "$300"
+        "price": 300,
+        "stock": 10
         
     },  
     {
@@ -23,7 +25,8 @@
         "description": "Los auriculares inalámbricos conocidos por su diseño elegante y cómodo. Ofrecen una experiencia de audio de alta calidad y se conectan fácilmente a dispositivos mediante Bluetooth",
         "category": " Headphones",
         "imagen": "https://www.telefonshoppen.se/img/bilder/artiklar/zoom/apple-airpods-max_1.jpg?m=1686295771&w=720",
-        "price": "$300"
+        "price": 300,
+        "stock": 10
     },
     {
         "id":4,
@@ -31,7 +34,8 @@
         "description": "iPhones: Innovación, rendimiento y elegancia en un solo dispositivo.Descubre la excelencia de Apple con estos teléfonos inteligentes de última generación, que ofrecen una experiencia fluida, cámara de alta calidad y una amplia gama de aplicaciones para simplificar tu vida diaria.",
         "category": " Iphone",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_973345-MLA47781591382_102021-O.webp",
-        "price": "$700"
+        "price": 700,
+        "stock": 10
     },
     {
         "id":5,
@@ -39,7 +43,8 @@
         "description": "iPhones: Innovación, rendimiento y elegancia en un solo dispositivo.Descubre la excelencia de Apple con estos teléfonos inteligentes de última generación, que ofrecen una experiencia fluida, cámara de alta calidad y una amplia gama de aplicaciones para simplificar tu vida diaria.",
         "category": " Iphone",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_619667-MLA47781882790_102021-O.webp",
-        "price": "$700"
+        "price": 700,
+        "stock": 10
     },
     {
         "id":6,
@@ -47,7 +52,8 @@
         "description": "iPhones: Innovación, rendimiento y elegancia en un solo dispositivo.Descubre la excelencia de Apple con estos teléfonos inteligentes de última generación, que ofrecen una experiencia fluida, cámara de alta calidad y una amplia gama de aplicaciones para simplificar tu vida diaria.",
         "category": " Iphone",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_736168-MLA47781742030_102021-O.webp",
-        "price": "$700"
+        "price": 700,
+        "stock": 10
     },
     {
         "id":7,
@@ -55,7 +61,8 @@
         "description": "La combinación perfecta de estilo y funcionalidad. Mantén tu vida conectada en tu muñeca con estos relojes inteligentes, que ofrecen seguimiento de actividad, notificaciones en tiempo real y una variedad de aplicaciones para facilitar tu día a día.",
         "category": " Smartwatch",
         "imagen": "https://cdn-ipoint.waugi.com.ar/23140-thickbox_default/apple-watch-se-gps-40mm-gold-aluminium-casestarlight-sport-band.jpg",
-        "price": "$250"
+        "price": 250,
+        "stock": 10
     },
     {
         "id":8,
@@ -63,7 +70,8 @@
         "description": "La combinación perfecta de estilo y funcionalidad. Mantén tu vida conectada en tu muñeca con estos relojes inteligentes, que ofrecen seguimiento de actividad, notificaciones en tiempo real y una variedad de aplicaciones para facilitar tu día a día.",
         "category": " Smartwatch",
         "imagen": "https://images.fravega.com/f300/38948bb4e1de72ad0cfb8f50b262f2b6.jpg.webp",
-        "price": "$250"
+        "price": 250,
+        "stock": 10
     },
     {
         "id":9,
@@ -71,7 +79,8 @@
         "description": "La combinación perfecta de estilo y funcionalidad. Mantén tu vida conectada en tu muñeca con estos relojes inteligentes, que ofrecen seguimiento de actividad, notificaciones en tiempo real y una variedad de aplicaciones para facilitar tu día a día.",
         "category": " Smartwatch",
         "imagen": "https://images.fravega.com/f300/9621db3cb192b5e486a680a1a4e4496e.jpg.webp",
-        "price": "$250"
+        "price": 250,
+        "stock": 10
         
     }
 ]
