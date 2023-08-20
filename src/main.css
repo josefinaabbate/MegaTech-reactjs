@@ -216,7 +216,3 @@ text-align: center;
 .imagen-carrito{
     max-height: 8rem;
 }
-.carritoitem{
-display: flex;
- padding-bottom: 30px;
-}
